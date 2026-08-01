@@ -1,0 +1,19 @@
+# Sekra
+
+> Sekra is a residential and community development company building spaces designed around human connection — "the future of home is Human," with an emphasis on community, culture, and longevity. It partners with property owners, developers, and investors globally. Surfaced in the API Evangelist network as a portfolio company of Fifth Wall (proptech). No public API, developer portal, or technical integration surface is published at this time.
+
+## Company
+- Website: https://www.sekra.com/
+- Partnerships: partners@sekra.com
+- General contact: home@sekra.com
+
+## API Evangelist profile
+- APIs.json: https://raw.githubusercontent.com/api-evangelist/sekra/refs/heads/main/apis.yml
+
+## Artifacts
+- Domain security profile (probed TLS/HSTS/DNS): security/sekra-domain-security.yml
+
+## Notes
+- No OpenAPI, AsyncAPI, SDKs, MCP server, or developer documentation found as of 2026-07-21.
+- Sector: proptech / real estate / community development.
+- Backed by: Fifth Wall.
